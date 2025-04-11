@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm a bioinformatician at Skoltech, specializing in the analysis of multi-omics data. My research focuses on sirtuin biology and aging
+
+Learn more about my work and publications on my [personal website](https://cosmoskaluga.github.io/). 
+
 <!--
 **cosmoskaluga/cosmoskaluga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
