@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a bioinformatician at Skoltech, specializing in the analysis of multi-omics data. My research focuses on sirtuin biology and aging
+I'm a researcher at Central University, specializing in the computational biology and bioinformatics. My research focuses on chromatin, sirtuin biology and aging
 
 Learn more about my work and publications on my [personal website](https://cosmoskaluga.github.io/). 
 
